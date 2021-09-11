@@ -1,0 +1,16 @@
+{
+  "name": "set-discord-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuji Yamaguchi",
+  "license": "MIT",
+  "description": "",
+  "packageManager": "yarn@1.22.11",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "repository": "https://github.com/YuG1224/set-discord-activity.git"
+}
